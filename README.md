@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Student Portal
 
 A separate React project for **Lost & Found** and **Student Help** (college student services).
@@ -35,3 +36,6 @@ Runs at [http://localhost:3000](http://localhost:3000) (use another port if reac
 ## Images (optional)
 
 Lost & Found cards use `/Img/books/...` paths. To show images, copy the `Img` folder from `full stack/Img` or `react-app/public/Img` into `student-portal/public/Img`.
+=======
+# Campus_Student_Guide
+>>>>>>> 4f7709d66102045c8809253977b1034379283695
